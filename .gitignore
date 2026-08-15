@@ -1,0 +1,7 @@
+.env
+node modules/   
+node_modules
+.history/
+.env
+.env.*
+!.env.example
